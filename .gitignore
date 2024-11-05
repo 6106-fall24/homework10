@@ -1,0 +1,13 @@
+homework10-venv
+*.csv 
+*.png 
+bulk_prefetch
+bulk_prefetch_soln
+mark_phase
+mark_phase_soln
+mlp_detective
+sweep_phase
+sweep_phase_soln
+.vscode/
+.DS_Store
+._.DS_Store
